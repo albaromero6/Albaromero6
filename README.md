@@ -6,7 +6,7 @@
 - 📫 Contact with me:
 <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/alba-romero-almansa-33a880167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-diaz-3a064bb3" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alba-romero-almansa-33a880167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo-diaz-3a064bb3" height="10" width="20" /></a>
 </p>
 
 
