@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- <img width="48" height="48" src="https://img.icons8.com/fluency/48/student-female.png" alt="student-female"/><p>I graduated as a psychologist at the University of Málaga</p>
+- <img width="25" height="25" src="https://img.icons8.com/fluency/25/student-female.png" alt="student-female"/><p>I graduated as a psychologist at the University of Málaga</p>
 
 
