@@ -4,4 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+- <img width="48" height="48" src="https://img.icons8.com/fluency/48/student-female.png" alt="student-female"/>
+
 
